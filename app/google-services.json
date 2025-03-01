@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1008739162517",
+    "firebase_url": "https://sneakerhead-8915a-default-rtdb.firebaseio.com",
+    "project_id": "sneakerhead-8915a",
+    "storage_bucket": "sneakerhead-8915a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1008739162517:android:8afd4b992da5e46af03e9c",
+        "android_client_info": {
+          "package_name": "com.example.sneakerhead"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARDQtCeerq8LVJLEB0In4RRICsXCO-pF4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
